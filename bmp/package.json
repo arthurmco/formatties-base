@@ -1,0 +1,20 @@
+{
+  "name": "formatties",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack build",
+    "dev": "webpack serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.74.0",
+    "webpack-dev-server": "^4.9.3"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  }
+}
